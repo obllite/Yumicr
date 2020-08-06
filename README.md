@@ -1,5 +1,4 @@
 # Yumicr #
-<font face="黑体">
 **简介**：使用unity2019开发的2D横版游戏的demo<br/>
 **使用的unity版本**：2019.3.9f<br/>
 **可运行平台**：<del>大概只有</del>Windows
